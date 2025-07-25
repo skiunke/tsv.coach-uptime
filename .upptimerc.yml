@@ -14,7 +14,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tsv.coach
   # baseUrl: /your-repo-name
-  logoUrl: https://ihlophfjtrooaicntubm.supabase.co/storage/v1/object/public/bucket//test1.png
+  logoUrl: https://ihlophfjtrooaicntubm.supabase.co/storage/v1/object/public/bucket//favicon.png
   name: Uptime & Incident Management
   introTitle: TSV.coach Uptime
   introMessage: This website shows the status of services around tsv.coach, and scheduled maintenance.
