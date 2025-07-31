@@ -4,18 +4,19 @@
     "url": "https://tsv.coach",
     "icon": "https://icons.duckduckgo.com/ip3/tsv.coach.ico",
     "slug": "web-app",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 708,
-    "timeDay": 712,
+    "timeDay": 791,
     "timeWeek": 708,
     "timeMonth": 708,
     "timeYear": 708,
     "dailyMinutesDown": {
+      "2025-07-31": 1,
       "2025-07-30": 15,
       "2025-07-29": 19
     }
@@ -25,7 +26,7 @@
     "url": "https://forum.kiunke.dev",
     "icon": "https://icons.duckduckgo.com/ip3/forum.kiunke.dev.ico",
     "slug": "forums",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +37,8 @@
     "timeWeek": 745,
     "timeMonth": 745,
     "timeYear": 745,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-31": 0
+    }
   }
 ]
